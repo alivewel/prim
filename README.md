@@ -192,4 +192,4 @@ func generateAndPrintRandomNumber(max int) int {
 
 <br>
 
-Полное и подробное описание работы алогритма можно найти в моем [GitHub](https://github.com/alivewel/prim).
+Полное и подробное описание работы алгоритма можно найти в моем [GitHub](https://github.com/alivewel/prim).
